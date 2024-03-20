@@ -7,5 +7,4 @@ public class VK_Testing_1_hw {
     public void firstVKTest() {
         Assertions.assertTrue(true);
     }
-
 }
